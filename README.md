@@ -1,4 +1,4 @@
-Evolver
+# Evolver
 
 A robust online examination platform built with Node.js, Express, React, TypeScript, and PostgreSQL. It features role-based access control for Controller, Teacher, and Student users, complete with an Admin panel, exam management, result handling, and user profile functionality.
 
