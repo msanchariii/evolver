@@ -1,4 +1,4 @@
-# If you are a contributor of GSSOC'25 please visit the correct link: [Organa](https://github.com/msanchriii/organa)
+# If you are a contributor of GSSOC'25 please visit the correct link: [Organa](https://github.com/msanchariii/organa)
 
 # Evolver
 
